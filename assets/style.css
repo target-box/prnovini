@@ -137,3 +137,7 @@ footer.site-footer .f-col ul li a:hover{color:#fff;text-decoration:none}
 footer.site-footer .f-col a{color:#aab2c3}
 footer.site-footer .footer-bottom{border-top:1px solid rgba(255,255,255,.08);padding:16px 18px;text-align:center;font:12px Arial,sans-serif;color:#6b7488}
 footer.site-footer .footer-bottom a{color:#8c94a8}
+
+/* ---------- weather widget ---------- */
+.widget.weather-widget .pz-embed{font:13px Arial,sans-serif;text-align:center;padding:6px 0}
+.widget.weather-widget .pz-embed a{color:var(--navy);font-weight:700}
